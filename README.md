@@ -8,7 +8,7 @@ pdf 에서 text 추출기
 ``` pip install pdfminer.six``` 
 
 
-### cmd 사용법
+### cmd 사용법 (osx 맥 터미널 열고)
 
 ``` python pdf_to_txt.py ```
 
