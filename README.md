@@ -18,7 +18,7 @@ pdf 에서 text 추출기
 ``` python pdf_to_txt.py ```
 
 
-### gui 설치
+### gui 설치 (exe)
 
 https://github.com/leeseomin/pdfminer_gui/releases/tag/pdf
 
