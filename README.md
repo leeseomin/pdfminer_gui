@@ -1,4 +1,6 @@
-# pdfminer_gui  (pdf 에서 text 추출기)
+# pdfminer_gui  
+
+pdf 에서 text 추출기
 
 ###  Dependency 
 
