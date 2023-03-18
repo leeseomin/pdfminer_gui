@@ -3,7 +3,7 @@
 
 ### cmd 사용법
 
-''' python pdf_to_txt.py '''
+``` python pdf_to_txt.py ```
 
 
 ### gui 설치
