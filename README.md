@@ -3,8 +3,6 @@
 pdf 에서 text 추출기
 
 
- <img src="https://github.com/leeseomin/pdfminer_gui/blob/main/image.png" width=“95%">
-
 ![대표](https://github.com/leeseomin/pdfminer_gui/blob/main/image.png)
 
 
