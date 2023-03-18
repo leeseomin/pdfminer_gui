@@ -7,18 +7,18 @@ pdf 에서 text 추출기
 
 
 
-#  Dependency 
+###  Dependency 
 
 
 ``` pip install pdfminer.six``` 
 
 
-# cmd 사용법 (osx 맥 터미널 열고)
+### cmd 사용법 (osx 맥 터미널 열고)
 
 ``` python pdf_to_txt.py ```
 
 
-# gui 설치 (exe)
+### gui 설치 (exe)
 
 https://github.com/leeseomin/pdfminer_gui/releases/tag/pdf
 
