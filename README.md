@@ -1,5 +1,9 @@
 # pdfminer_gui
 
+###  Dependency 
+
+pip install pdfminer.six
+
 
 ### cmd 사용법
 
