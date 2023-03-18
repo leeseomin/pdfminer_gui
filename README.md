@@ -2,7 +2,9 @@
 
 ###  Dependency 
 
-pip install pdfminer.six
+
+``` pip install pdfminer.six
+``` 
 
 
 ### cmd 사용법
