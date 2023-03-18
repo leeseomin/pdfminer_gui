@@ -25,7 +25,8 @@ https://github.com/leeseomin/pdfminer_gui/releases/tag/pdf
 
 
 
-### 참고 
+### Credit
+
 
 pdfminer.six  :  https://github.com/pdfminer/pdfminer.six  를 기반으로 만들어짐.
 
