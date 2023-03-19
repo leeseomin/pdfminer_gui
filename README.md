@@ -4,7 +4,6 @@ pdf 에서 text 추출기
 
 
 ![대표](https://github.com/leeseomin/pdfminer_gui/blob/main/images/c2.png)
-
 ![대표](https://github.com/leeseomin/pdfminer_gui/blob/main/images/mac.png)
 
 
