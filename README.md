@@ -16,7 +16,7 @@ pdf 에서 text 추출기
 ``` python v11.py  ```
 
 
-### gui 설치 (.exe)
+###  windows gui 윈도우 설치 (.exe)
 
 https://github.com/leeseomin/pdfminer_gui/releases
 
