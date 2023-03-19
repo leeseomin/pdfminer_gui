@@ -20,8 +20,7 @@ pdf 에서 text 추출기
 
 ### gui 설치 (exe)
 
-https://github.com/leeseomin/pdfminer_gui/releases/tag/pdf
-
+https://github.com/leeseomin/pdfminer_gui/releases
 
 
 
